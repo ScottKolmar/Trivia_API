@@ -2,6 +2,7 @@
 __pycache__
 venv
 credentials.env
+run_tests.sh
 
 # OS generated files #
 ######################
